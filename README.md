@@ -6,7 +6,7 @@
 
 **After fetching:**
 
-![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/64779b1a-3375-4d34-94fc-56f26ccbc769)
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/eb855512-74b8-4471-a516-0197454e9f55)
 
 **Offline mode (taking saved persons data from database):**
 
@@ -14,6 +14,6 @@
 
 **After fetching from database:**
 
-![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/0967a13f-279f-498e-b1fc-951507d9740e)
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/7206fb52-f30f-4fdb-8eb8-0f4a0490e40b)
 
 
