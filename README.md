@@ -16,4 +16,10 @@
 
 ![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/7206fb52-f30f-4fdb-8eb8-0f4a0490e40b)
 
+In database we can edit Name, City and Phone Number of choosen person, or delete them:
 
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/841bd05e-70ac-447f-bcef-33954392e1fe)
+
+Edited person:
+
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/404389fd-3d0c-4cd1-b7b6-db70ab9d17de)
