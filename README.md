@@ -1,16 +1,12 @@
-# zadanie3_person
+# Flutter dart app with random person generator api
 
-A new Flutter project.
+**Home page:**
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/3f08b8e3-89d1-4fa7-b2e7-91615c5c5b23)
+**After fetching:**
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/64779b1a-3375-4d34-94fc-56f26ccbc769)
+**Offline mode (taking saved persons data from database):**
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/88373fc4-c814-4af7-9650-c0768b218268)
+**After fetching from database:**
+![image](https://github.com/MarcineQu/Flutter-dart-database-app-with-random-generated-persons/assets/83167368/0967a13f-279f-498e-b1fc-951507d9740e)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
